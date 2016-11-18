@@ -74,7 +74,7 @@ module.exports = function(config) {
     logLevel: 'WARN',
 
 <% if (props.jsPreprocessor.key === 'noJsPrepro' || props.jsPreprocessor.key === 'coffee') { -%>
-    frameworks: ['phantomjs-shim', 'jasmine', 'angular-filesort'],
+    frameworks: ['jasmine', 'angular-filesort'],
 
     angularFilesort: {
 <%   if (props.jsPreprocessor.key === 'noJsPrepro') { -%>
