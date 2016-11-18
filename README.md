@@ -3,9 +3,9 @@
 [![Unmaintained](https://img.shields.io/badge/generator-unmaintained-red.svg?style=flat-square)](https://github.com/Swiip/generator-gulp-angular/pull/1155)
 [![Outdated](https://img.shields.io/badge/generator-outdated-red.svg?style=flat-square)](https://github.com/Swiip/generator-gulp-angular/pull/1155)
 
-[![Build Status](https://img.shields.io/travis/Swiip/generator-gulp-angular/master.svg?style=flat-square)](http://travis-ci.org/Swiip/generator-gulp-angular)
-[![Coverage Status](https://img.shields.io/codecov/c/github/Swiip/generator-gulp-angular.svg?style=flat-square)](http://codecov.io/github/Swiip/generator-gulp-angular?branch=master)
-[![Dependencies](http://img.shields.io/david/Swiip/generator-gulp-angular.svg?style=flat-square)](https://david-dm.org/eleven-labs/generator-gulp-angular)
+[![Build Status](https://img.shields.io/travis/sophalch/generator-gulp-angular/master.svg?style=flat-square)](http://travis-ci.org/sophalch/generator-gulp-angular)
+[![Coverage Status](https://img.shields.io/codecov/c/github/sophalch/generator-gulp-angular.svg?style=flat-square)](http://codecov.io/github/sophalch/generator-gulp-angular?branch=master)
+[![Dependencies](http://img.shields.io/david/sophalch/generator-gulp-angular.svg?style=flat-square)](https://david-dm.org/eleven-labs/generator-gulp-angular)
 [![NPM Version](http://img.shields.io/npm/v/generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/generator-gulp-angular)
 [![Download Month](http://img.shields.io/npm/dm/generator-gulp-angular.svg?style=flat-square)](https://www.npmjs.org/package/generator-gulp-angular)
 
