@@ -84,7 +84,7 @@ module.exports = function(config) {
 <%   } -%>
     },
 <% } else { -%>
-    frameworks: ['phantomjs-shim', 'jasmine'],
+    frameworks: ['jasmine'],
 <% } -%>
 
 <% if(props.jsPreprocessor.key === 'traceur') { -%>
@@ -100,7 +100,6 @@ module.exports = function(config) {
 <% } if (props.jsPreprocessor.key === 'noJsPrepro' || props.jsPreprocessor.key === 'coffee') { -%>
       'karma-angular-filesort',
 <% } -%>
-      'karma-phantomjs-shim',
       'karma-coverage',
       'karma-jasmine',
       'karma-ng-html2js-preprocessor'
